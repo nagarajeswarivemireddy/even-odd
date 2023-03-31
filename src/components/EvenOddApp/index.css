@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.countContainer {
+  background: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 250px;
+  width: 250px;
+  align-items: center;
+}
+.heading {
+  color: white;
+  font-weight: bold;
+  font-size: 26px;
+  font-family: 'Roboto';
+}
+.paragraph {
+  color: #334155;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.button {
+  background-color: white;
+  color: black;
+  border-width: 1px;
+  border-color: black;
+  font-size: 14px;
+  padding: 10px;
+}
+.lastMsg {
+  color: #1e293b;
+  font-size: 10px;
+}
